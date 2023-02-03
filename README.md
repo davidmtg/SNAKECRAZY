@@ -1,5 +1,7 @@
 # Infoweb Turma 2022 - FLA Game
 
+Jogo de David Paiva e Jonathas Pereira
+
 A cobra "Michonga" segue sua jornada em busca de alimentos e enfrenta todos os abstáculos para alcançar seu objetivo.
 
 
